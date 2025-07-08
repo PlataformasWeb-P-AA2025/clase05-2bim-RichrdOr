@@ -27,3 +27,11 @@
 2.1 settings.py
 
 2.2 templates
+
+
+## Actividad en Clase
+
+![Captura de pantalla 2025-07-08 102107](https://github.com/user-attachments/assets/c6d5393a-9582-4a1c-8244-4f45f48cf7c0)
+
+
+![Captura de pantalla 2025-07-08 102142](https://github.com/user-attachments/assets/30d949b5-e4ef-456a-b71e-1cf290855961)
