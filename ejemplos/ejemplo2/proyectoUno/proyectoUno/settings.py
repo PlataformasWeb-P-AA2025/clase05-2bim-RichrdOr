@@ -59,6 +59,7 @@ AUTHENTICATION_BACKENDS = (
 # agregar apps para Auth - paso 3
 ACCOUNT_EMAIL_VERIFICATION = 'none'
 
+# Paso 3.1: el middleware es el paso intermedio que se acaba de crear con 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -156,4 +157,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # agregar apps para Auth - paso 4
 LOGIN_REDIRECT_URL = reverse_lazy('index')
-SITE_ID = 3
+SITE_ID = 4
